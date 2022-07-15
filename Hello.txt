@@ -1,3 +1,4 @@
 hello, dt108
 I am dev
 i am master
+新加的功能
